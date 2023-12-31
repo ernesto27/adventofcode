@@ -1,7 +1,9 @@
 package main
 
-import "2019/day01"
+import (
+	"2019/day02"
+)
 
 func main() {
-	day01.Second()
+	day02.First()
 }
